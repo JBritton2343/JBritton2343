@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... any web apps using these technologies
 - 🤔 I’m looking for help with ... expanding my reptoir of coding languages
 - 💬 Ask me about ... react, python, and SQL
-- 📫 How to reach me: ... I can be reached via email @ jbritton854@gmail.com
+- 📫 How to reach me: ... I can be reached via email @ jbritton854@gmail.com or @ LinkedIn @ https://www.linkedin.com/in/james-britton-a37469211/
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I lived in Germany when the Berlin Wall came down.
 -->
